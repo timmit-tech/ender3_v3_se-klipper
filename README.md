@@ -5,7 +5,11 @@ Moste work whit the config file i use this https://github.com/jpcurti/ender3-v3-
 
 Compile whit following settings
 
+
 Micro-Controller Architecture = STMicroelectronics STM32
+
 Processor model = STM32F103
+
 Bootloader = 28 KiB
+
 Communication interface = USART1 PA10/PA9
