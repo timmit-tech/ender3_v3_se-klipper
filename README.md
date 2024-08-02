@@ -13,3 +13,5 @@ Processor model = STM32F103
 Bootloader = 28 KiB
 
 Communication interface = USART1 PA10/PA9
+
+https://www.reddit.com/r/Ender3V3SE/comments/17ta94g/auto_zoffset_on_ender3_v3_se_running_stock_klipper/
